@@ -1,3 +1,10 @@
 
-node_modules/
-mime/
+node_modules
+mime
+mime.cmd
+uglifyjs
+uglifyjs.cmd
+uglifyjs.ps1
+handlebars
+handlebars.cmd
+handlebars.ps1
